@@ -38,12 +38,12 @@ Sigue estos pasos para configurar el entorno de desarrollo y ejecutar el proyect
 
 - **Clonar el Repositorio**
     ```bash
-    git clone https://github.com/tu_usuario/analisis_regresion_polinomica_python.git
+    git clone https://github.com/moises60/BreadcrumbsRegresion-polinomica-machine-learning-.git
     ```
 
 - **Acceder a la Carpeta**
     ```bash
-    cd analisis_regresion_polinomica_python
+    cd BreadcrumbsRegresion-polinomica-machine-learning-
     ```
 
 ## Uso
